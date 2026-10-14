@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media3 Compose Player</string>
+    <string name="video_title">Big Buck Bunny</string>
+    <string name="video_subtitle">Blender Foundation · 2008</string>
+    <string name="video_description">A big and lovable rabbit deals with three tiny bullies, led by a flying squirrel, who are determined to squelch his happiness. This short is an open-source animated film used widely for testing media playback.</string>
+</resources>
